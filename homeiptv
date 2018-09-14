@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1,UK: BBC One
+http://51.15.199.82:25461/live/tahir/tahir/4.ts
+#EXTINF:-1,UK: BBC One (2)
+http://51.15.199.82:25461/live/tahir/tahir/980.ts
+#EXTINF:-1,UK: BBC Two
+http://51.15.199.82:25461/live/tahir/tahir/5.ts
+#EXTINF:-1,UK: BBC Two (2)
+http://51.15.199.82:25461/live/tahir/tahir/981.ts
+#EXTINF:-1,UK: ITV 1
+http://51.15.199.82:25461/live/tahir/tahir/1269.ts
+#EXTINF:-1,UK: ITV One
+http://51.15.199.82:25461/live/tahir/tahir/6.ts
+#EXTINF:-1,UK: ITV One (2)
+http://51.15.199.82:25461/live/tahir/tahir/982.ts
+#EXTINF:-1,UK: Channel 4
+http://51.15.199.82:25461/live/tahir/tahir/7.ts
+#EXTINF:-1,UK: Channel 4 (2)
+http://51.15.199.82:25461/live/tahir/tahir/983.ts
+#EXTINF:-1,UK: Channel 5
+http://51.15.199.82:25461/live/tahir/tahir/8.ts
+#EXTINF:-1,UK: Channel 5 (2)
+http://51.15.199.82:25461/live/tahir/tahir/984.ts
+#EXTINF:-1,UK: BBC Four
+http://51.15.199.82:25461/live/tahir/tahir/11.ts
+#EXTINF:-1,UK: ITV 2
+http://51.15.199.82:25461/live/tahir/tahir/12.ts
+#EXTINF:-1,UK: ITV 3
+http://51.15.199.82:25461/live/tahir/tahir/13.ts
+#EXTINF:-1,UK: ITV 4
+http://51.15.199.82:25461/live/tahir/tahir/14.ts
+#EXTINF:-1,UK: Sky News
+http://51.15.199.82:25461/live/tahir/tahir/149.ts
+#EXTINF:-1,ES: Bein Laliga HD
+http://5.189.190.163:8000/live/raffaele/raffaele/1593.ts
+#EXTINF:-1,ES: Antena3
+http://5.189.190.163:8000/live/raffaele/raffaele/1601.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://5.189.190.163:8000/live/raffaele/raffaele/1608.ts
+#EXTINF:-1,ES: Telecinco
+http://5.189.190.163:8000/live/raffaele/raffaele/1594.ts
+#EXTINF:-1,ES: TAQUILLA 1
+http://5.189.190.163:8000/live/raffaele/raffaele/1602.ts
+#EXTINF:-1,ES: TAQUILLA 2
+http://5.189.190.163:8000/live/raffaele/raffaele/1603.ts
+#EXTINF:-1,ES: TAQUILLA 3
+http://5.189.190.163:8000/live/raffaele/raffaele/1604.ts
+#EXTINF:-1,ES: AXN
+http://5.189.190.163:8000/live/raffaele/raffaele/1600.ts
+#EXTINF:-1,ES: Real Madrid CH
+http://5.189.190.163:8000/live/raffaele/raffaele/1595.ts
+#EXTINF:-1,ES: Nova
+http://stariptv.serveftp.com:34000/live/MHRACH/FIPDYebhNt/2208.ts
+#EXTINF:-1,ES: MOVISTAR GP HD
+http://5.189.190.163:8000/live/raffaele/raffaele/1609.ts
+#EXTINF:-1,ES: Moviestar F1
+http://5.189.190.163:8000/live/raffaele/raffaele/1596.ts
+#EXTINF:-1,CNBC
+http://209.182.228.23:8000/udp/239.255.12.9:1135
+#EXTINF:-1,BOOK
+http://209.182.228.23:8000/udp/239.255.12.29:1135
+#EXTINF:-1,BBC Kids
+http://209.182.228.23:8000/udp/239.255.12.58:1135
+#EXTINF:-1,MTV 2
+http://209.182.228.23:8000/udp/239.255.12.77:1135
+#EXTINF:-1,CP24 HD
+http://209.182.228.23:8000/udp/230.50.0.12:8208
+#EXTINF:-1,TSN 1
+http://209.182.228.23:8000/udp/230.50.0.13:8208
+#EXTINF:-1,TSN 2
+http://209.182.228.23:8000/udp/230.50.0.14:8208
+#EXTINF:-1,TSN 4
+http://209.182.228.23:8000/udp/230.50.0.16:8208
+#EXTINF:-1,TSN 3
+http://209.182.228.23:8000/udp/230.50.0.15:8208
+#EXTINF:-1,RDS
+http://209.182.228.23:8000/udp/230.50.0.31:8208
+#EXTINF:-1,DTOUR
+http://209.182.228.23:8000/udp/239.255.51.239:1136
+#EXTINF:-1,0705
+http://209.182.228.23:8000/udp/230.50.0.1:8208
+#EXTINF:-1,Comedy Gold
+http://209.182.228.23:8000/udp/239.255.12.137:1135
+#EXTINF:-1,DEJA VIEW
+http://209.182.228.23:8000/udp/239.255.12.136:1135
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD2
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/3.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD2+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/4.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD3
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/5.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD3+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/6.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD4
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/7.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD4+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/8.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD5
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/9.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD5+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/10.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD6
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/11.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD6+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/12.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD7
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/13.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD7+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/14.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD8
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/15.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD8+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/16.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD9
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/17.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD9+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/18.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD10
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/19.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD10+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/20.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD11
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/21.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD11+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/22.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD12
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/23.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD12+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/24.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD13
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/25.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD13+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/26.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD14
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/27.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD14+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/28.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD15
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/29.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport SD15+
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/30.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport HD1
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/525.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport HD2
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/526.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport HD3
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/527.ts
+#EXTVLCOPT:http-user-agent=iptv4sat.com2
+#EXTINF:-1,VIP:Bein Sport HD4
+http://momens.info:8089/live/I3474/5a3eb72ceaf99/528.ts
+EXTINF:-1,[USA] Bravo US
+http://134.19.181.172:8000/live/x333/x333/207.ts
+EXTINF:-1,[USA] CHCH HD
+http://134.19.181.172:8000/live/x333/x333/1974.ts
+EXTINF:-1,[USA] CNN
+http://134.19.181.172:8000/live/x333/x333/322.ts
+EXTINF:-1,[USA] Cartoon Network HD
+http://134.19.181.172:8000/live/x333/x333/1898.ts
+EXTINF:-1,[USA] E! Entertainment US
+http://134.19.181.172:8000/live/x333/x333/1962.ts
+EXTINF:-1,[USA] ESPN 2
+http://134.19.181.172:8000/live/x333/x333/2003.ts
+EXTINF:-1,[USA] ESPN U
+http://134.19.181.172:8000/live/x333/x333/2002.ts
+EXTINF:-1,[USA] Fox HD
+http://134.19.181.172:8000/live/x333/x333/1905.ts
+EXTINF:-1,[USA] Fox Sport 1 HD
+http://134.19.181.172:8000/live/x333/x333/1089.ts
+EXTINF:-1,[USA] HBO Signature
+http://134.19.181.172:8000/live/x333/x333/1976.ts
+EXTINF:-1,[USA] HBO US
+http://134.19.181.172:8000/live/x333/x333/1975.ts
+EXTINF:-1,[USA] HBO Zone
+http://134.19.181.172:8000/live/x333/x333/1961.ts
+EXTINF:-1,[USA] HGTV
+http://134.19.181.172:8000/live/x333/x333/2014.ts
+EXTINF:-1,[USA] MSNBC
+http://134.19.181.172:8000/live/x333/x333/2258.ts
+EXTINF:-1,[USA] NBA TV HD
+http://134.19.181.172:8000/live/x333/x333/1903.ts
+EXTINF:-1,[USA] NBC Golf
+http://134.19.181.172:8000/live/x333/x333/2042.ts
+EXTINF:-1,[USA] NFL Network HD
+http://134.19.181.172:8000/live/x333/x333/1908.ts
+EXTINF:-1,[USA] NHL NETWORK
+http://134.19.181.172:8000/live/x333/x333/1907.ts
+EXTINF:-1,[USA] Nicktoons
+http://134.19.181.172:8000/live/x333/x333/1904.ts
+EXTINF:-1,[USA] SPIKE HD
+http://134.19.181.172:8000/live/x333/x333/1909.ts
+EXTINF:-1,[USA] Showtime HD
+http://134.19.181.172:8000/live/x333/x333/1901.ts
+EXTINF:-1,[USA] SyFy HD
+http://134.19.181.172:8000/live/x333/x333/1910.ts
+EXTINF:-1,[USA] Tennis Channel HD
+http://134.19.181.172:8000/live/x333/x333/1992.ts
+EXTINF:-1,[USA] USA Network
+http://134.19.181.172:8000/live/x333/x333/1911.ts
